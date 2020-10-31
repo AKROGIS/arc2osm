@@ -1,6 +1,9 @@
 arc2osm
 =======
 
+**This project has been archived. It was largely experimental and was eventually superceeded by
+[arc2places](https://github.com/nationalparkservice/arc2places).**
+
 This project provides tools for uploading National Park Service GIS data
 from ESRI data sources to the [NP Places system](https://github.com/nationalparkservice/places-api)
 which is based on the OSM data model.
